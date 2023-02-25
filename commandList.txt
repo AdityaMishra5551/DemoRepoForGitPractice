@@ -4,6 +4,7 @@ PowerShell Commands:-
 # ls -hidden
 # cls
 # clear
+# Get-ChildItem
 
 
 
@@ -16,3 +17,4 @@ git Commands:-
 # git restore --staged <filename>
 # git commit 
 # git commit -m <message>
+# git log
