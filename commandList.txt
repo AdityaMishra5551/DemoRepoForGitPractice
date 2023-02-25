@@ -17,4 +17,5 @@ git Commands:-
 # git restore --staged <filename>
 # git commit 
 # git commit -m <message>
+# git commit -a -m <message>
 # git log
