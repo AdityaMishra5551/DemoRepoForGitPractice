@@ -1,0 +1,18 @@
+PowerShell Commands:-
+# New-Item
+# ls
+# ls -hidden
+# cls
+# clear
+
+
+
+
+git Commands:-
+
+# git init
+# git status
+# git add <filename>
+# git restore --staged <filename>
+# git commit 
+# git commit -m <message>
