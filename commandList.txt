@@ -8,9 +8,13 @@ PowerShell Commands:-
 
 
 
+Command Prompt:-
+
+
+
+
 
 git Commands:-
-
 # git init
 # git status
 # git add <filename>
@@ -28,4 +32,7 @@ git Commands:-
 # git stash clear
 # git remote add origin <reopsitory url>
 # git remote -v
+# git push origin master
+# git branch <New Branch Name>
+# git checkout <Branch Name>
 
