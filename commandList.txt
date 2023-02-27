@@ -26,4 +26,6 @@ git Commands:-
 # git stash
 # git stash pop
 # git stash clear
+# git remote add origin <reopsitory url>
+# git remote -v
 
