@@ -20,3 +20,7 @@ git Commands:-
 # git commit -m <message>
 # git commit -a -m <message>
 # git log
+# git stash
+# git stash pop
+# git stash clear
+# git restore <filename>
