@@ -37,7 +37,7 @@ git Commands:-
 # git remote -v
 # git branch <new branch name>
 # git checkout <branch name>
-# git push origin <branch name>
 # git merge <branch name>
 # git merge --abort
+# git push origin <branch name>
 
