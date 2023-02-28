@@ -10,7 +10,6 @@ PowerShell Commands:-
 
 Command Prompt:-
 # dir
-# dir /h
 # dir /as
 # dir /a-s
 
