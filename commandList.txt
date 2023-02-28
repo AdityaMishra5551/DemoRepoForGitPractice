@@ -33,11 +33,11 @@ git Commands:-
 # git stash
 # git stash pop
 # git stash clear
-# git remote add origin <reopsitory url>
+# git remote add <give url name> <reopsitory url>
 # git remote -v
 # git branch <new branch name>
 # git checkout <branch name>
 # git merge <branch name>
 # git merge --abort
-# git push origin <branch name>
+# git push <url name> <branch name>
 
